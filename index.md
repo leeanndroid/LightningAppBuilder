@@ -2,13 +2,13 @@
 layout: home
 title: Lightning App Builder Tutorial 
 ---
-In this tutorial you will use Salesforce Lightning App Builder to create an expense application using components built with the Lightning Component Framework. This new app will give users the ability to quickly navigate through and work with their expenses in the Salesforce1 Mobile Application. In the process of building the app you will learn to build apps with the Lightning App Builder and learn how your app can easily integrate with the features of Salesforce1 Mobile.
+In this tutorial you will use Salesforce Lightning App Builder to create a custom application using components built with the Lightning Component Framework. This new Sales Health app will give users the ability to quickly view their most important sales information in the Salesforce1 Mobile Application. In the process of building the app you will learn to build apps with the Lightning App Builder and see the possibiilites for both standard and custom component.
 
 ## What You Will Learn
 
-- Using Lightning App Builder
-- Working with Lightning Components and Quick Actions in Lightning App Builder
-- Activating an App in the Salesforce1 Mobile Application
+- Useg Lightning App Builder
+- Work with Lightning Components and Actions in Lightning App Builder
+- Activate an App in the Salesforce1 Mobile Application
 
 ## Prerequisites
 
