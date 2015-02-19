@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Module 4&#58; Add Lists to the Account Home App
+title: Module 4&#58; Add Lists to your app
 ---
 
 Now you are ready to compose an app in the Lightning App Builder using standard and custom components. In this module you will start by adding a few lists to your Sales Health app.
