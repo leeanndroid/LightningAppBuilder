@@ -41,23 +41,6 @@ A namespace is globally unique across all Salesforce organizations. Namespaces a
 1. Click **Save**
 
 
-## Step 3: Upload Bootstrap as a Static Resource
-
-To help you make the application look good, you will use a version of Twitter Bootstrap customized to match the [Salesforce1 guideline](http://sfdc-styleguide.herokuapp.com/).
-
-1. Download and unzip the Salesforce Foundation Bootstrap [here](http://developer.salesforcefoundation.org/bootstrap-sf1/)
-
-1. In Salesforce, click **Setup** > **Build** > **Develop** > **Static Resources**
-
-1. Click **New**
- 
-1. Specify **bootstrap** as the **Name**, then click the **Choose File** button, and select the **bootstrap.css** in the **dist/css** directory of the unzipped bootstrap folder
-
-    ![](images/static-resource.jpg)
-
-
-1. Click **Save**
-
 
 <div class="row" style="margin-top:40px;">
 <div class="col-sm-12">
