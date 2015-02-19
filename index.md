@@ -6,7 +6,7 @@ In this tutorial you will use Salesforce Lightning App Builder to create a custo
 
 ## What You Will Learn
 
-- Useg Lightning App Builder
+- How to use the Lightning App Builder
 - Work with Lightning Components and Actions in Lightning App Builder
 - Activate an App in the Salesforce1 Mobile Application
 
