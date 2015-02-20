@@ -29,19 +29,19 @@ This module gives a quick tour of the Lightning App Builder.
 
 You are now in the Lightning App Builder tool which is comprised of the following features:
 
-A. The canvas is the area where you build your app. Apps are assembled by dragging components from the left side bar (see _B_ and _C_) onto the canvas in the center. Editable sections are determined by the template chosen. These sections marked by boxes that initially are labeled _Add Component(s) Here_. Each box can have many components added to it. 
+A. The canvas is the area where you build your Lightning Page. Pages are assembled by dragging components from the left side bar (see _B_ and _C_) onto the canvas in the center. Editable sections are determined by the template chosen. These sections marked by boxes that initially are labeled _Add Component(s) Here_. Each box can have many components added to it. 
 
 B. Standard Lightning components provided by Salesforce with Lightning App Builder.
 
 C. Custom Lightning components. These will either be built by programmers in your org, deployed using the metadata API, or installed from AppExchange packages. 
 
-D. The preview picklist changes the form factor of the canvas so you can get an idea of how your app will display on different devices. Currently you can toggle between *Phone* and *Tablet*. Each template behaves differently when preview mode changes. 
+D. The preview picklist changes the form factor of the canvas so you can get an idea of how your page will display on different devices. Currently you can toggle between *Phone* and *Tablet*. Each template behaves differently when preview mode changes. 
 
 E. Controls for the App Builder. **Save** the current definition of your app. **Activate** adds your app the the Saleforce1 Mobile navigation. **Back To Setup** exits Lightning App Builder and returns you to the list of Lightning Apps. **Help** launches the online help for Lightning App Builder.
 
-F. Attributes for the currently selected item. This can either be for the app itself, in which case the title will indicate **Page**. Otherwise you can set attributes for individual components. In this instance the title will indicate **Page > [SelectedComponent]**. 
+F. Attributes for the currently selected item. This can either be for the page itself, in which case the title will indicate **Page**. Otherwise you can set attributes for individual components. In this instance the title will indicate **Page > [SelectedComponent]**. 
 
-G. Selected publisher actions for this App. Only global publisher actions are allowed in a Lightning App Builder App. Actions must be defined before you use them in your app by going to **Setup > Create > Global Actions > Actions**.
+G. Selected publisher actions for this Page. Only global publisher actions are allowed in a Lightning App Builder App. Actions must be defined before you use them in your app by going to **Setup > Create > Global Actions > Actions**.
 
 <div class="row" style="margin-top:40px;">
 <div class="col-sm-12">
