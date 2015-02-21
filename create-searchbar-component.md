@@ -3,7 +3,7 @@ layout: module
 title: Module 6&#58; Add Actions and Activate 
 ---
 
-In this module, you will put the final touches on your Sales Health app by give the Sales Reps a quick way to create new Accounts, Contacts, Leads, and ________ while in your app. Then, you will activate your app and add it to the Salesforce1 Mobile App navigation.
+In this module, you will put the final touches on your Sales Health app by give the Sales Reps a quick way to Log a Call, Create a new Case, Add a new Lead, and set a Task while in your app. Then, you will activate your app and add it to the Salesforce1 Mobile App navigation.
 
 ## What you will learn
 
@@ -15,14 +15,14 @@ In this module, you will put the final touches on your Sales Health app by give 
 Actions are shortcuts that allow Salesforce1 Mobile App users to quickly create and modify records. In order for users to create common sales records, we will add a few standard actions. 
 
 1. In the right hand side bar, click on the word **Page**. This will make the app attributes available for configuration. 
-
-    ![Page Breadcrumb](images/lab-right-nav-breadcrumb-highlighted.png)
-
+![](images/pageclick.png)
+   
 2. At the bottom of the right side bar, under Actions, click **Select...**.
+3. ![](images/action1.png)
 
-3. From the **Available** list, drag the **New Account**, **New Lead**, and **New Contact** quick actions to the **Selected** list. 
+3. From the **Available** list, drag the **Log a Call**, **New Case**, and **New Lead** and **New Task** quick actions to the **Selected** list. 
 
-    ![Select New Expense](images/lab-select-actions.png)
+    ![Select New Expense](images/actions2.png)
 
 4. Click **Ok** to add the action to your Lightning Page. You should see the name of the selected action just above the **Select...** button.
 
@@ -30,7 +30,7 @@ Actions are shortcuts that allow Salesforce1 Mobile App users to quickly create 
 
 5. At the upper right of App Builder, click **Save**. 
 
-> The **Actions** attribute at the bottom of the right hand nav should now show the `New_Account`, `New_Lead`, and `New_Contact` actions. 
+> The **Actions** attribute at the bottom of the right hand nav should now show the `LogACall`, `NewCase`,`NewLead` and `NewTask` actions. 
 
 ## Step 2: Activate the App
 
