@@ -25,7 +25,7 @@ This module gives a quick tour of the Lightning App Builder.
 
 ## Step 2: Tour the Lightning App Builder
 
-![Lightning App Builder](images/lab-preview-labeled.png)
+![Lightning App Builder](images/newapp1.jpg)
 
 You are now in the Lightning App Builder tool which is comprised of the following features:
 

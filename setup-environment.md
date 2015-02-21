@@ -6,7 +6,6 @@ title: Module 2&#58; Setting Up Your Environment
 In this module, you set up your environment to enable Lightning App development.
 
 ## What you will learn
-- Create a Namespace
 - Enable Lightning Components in your Salesforce org
 - Upload Static Resources for use in your Lightning application
 - Install Custom Component
@@ -34,9 +33,14 @@ In this module, you set up your environment to enable Lightning App development.
 1. Select **Next**
 1. Select **Install** 
 
-##Step 3
+##Step 3: Create Sample Contacts with Locations
+All Salesforce developer environments come pre-populated with standard object records. We are going to edit 4 of these existing contact records to add information to our custom geolocation field on the contact record. This will allow our component to map the location of the contacts. 
 
 1. 
+
+
+
+
 
 
 
