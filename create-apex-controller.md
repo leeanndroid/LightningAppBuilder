@@ -8,7 +8,7 @@ This module gives a quick tour of the Lightning App Builder.
 
 > When creating a new Lightning Page you will be presented with a popup. In this popup you will supply a unique name for your new page and select the type of template to use.  
 > 
-> ![Create a New Lightning Page](images/lab-create-new-page.png)
+> ![Create a New Lightning Page](images/newapp.png)
 > 
 > A template defines the basic behavior and layout of the page you plan to create.   
 > 
