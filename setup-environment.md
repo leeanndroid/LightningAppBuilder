@@ -3,34 +3,17 @@ layout: module
 title: Module 2&#58; Setting Up Your Environment
 ---
 
-In this module, you set up your environment to enable Lightning development.
+In this module, you set up your environment to enable Lightning App development.
 
 ## What you will learn
 - Create a Namespace
 - Enable Lightning Components in your Salesforce org
 - Upload Static Resources for use in your Lightning application
+- Install Custom Component
 
 
-## Step 1: Create a Namespace
 
-A namespace is globally unique across all Salesforce organizations. Namespaces are case-insensitive and have a maximum length of 15 alphanumerical characters.
-
-1. Login to your Salesforce Developer Edition
-
-1. Click **Setup** (upper right corner)
-
-1. Click **Create** > **Packages** (left navigation)
-
-1. Click **Edit** and **Continue**
-
-1. Enter the namespace prefix you want to register, and click **Check Availability**. If the namespace you entered is not available, try again until you find a namespace that is available.
-
-1. Click **Review My Selections**
-
-1. Click **Save**
-
-
-## Step 2: Enable Lightning Components
+## Step 1: Enable Lightning Components
 
 1. In Setup, click **Develop** > **Lightning Components**
 
@@ -39,6 +22,21 @@ A namespace is globally unique across all Salesforce organizations. Namespaces a
     ![](images/enable-lightning.jpg)
 
 1. Click **Save**
+
+
+## Step 2: Install Custom Component Package 
+
+1. Copy and paste the URL http://bit.ly/NearbyComponent unto the address bar of your browser
+1. Select **Continue** on the Package Installation Details screen
+1. Select **Next** on the Approve Package API Access screen
+1. Select **Grant access to all users** on the Security Level screen. 
+![](images/package1.jpg)
+1. Select **Next**
+1. Select **Install** 
+
+##Step 3
+
+1. 
 
 
 
