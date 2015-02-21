@@ -46,9 +46,9 @@ Actions are shortcuts that allow Salesforce1 Mobile App users to quickly create 
 
 4. Select any icon you prefer. This will close the Tab Icon window and change the icon displayed in the Activate window. 
 
-5. In the Salesforce1 Navigation Position Pane on the right, drag the **Field Sales** Salesforce1 Navigation Position to just below the **Feed** navigation. 
+5. In the Salesforce1 Navigation Position Pane on the right, drag the **Field Sales** Salesforce1 Navigation Position to just below the **Today** tab. 
 
-![Nav Items List](images/lab-nav-items-list.png)
+![Nav Items List](images/navposition.png)
 
 6. Click **Activate**.
 
