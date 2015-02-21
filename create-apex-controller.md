@@ -20,7 +20,7 @@ This module gives a quick tour of the Lightning App Builder.
 
 3. In the *Create a New Lightning Page* pop-up, set the following values and click **Create**:
 
-- **Label:** Sales Health
+- **Label:** Field Sales App
 - **Template:** Responsive Two Column
 
 ## Step 2: Tour the Lightning App Builder
