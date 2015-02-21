@@ -36,17 +36,17 @@ Actions are shortcuts that allow Salesforce1 Mobile App users to quickly create 
 
 >The **Activate** feature allows the application builder to enable the app in the user interface without leaving Lightning App Builder. It bundles the standard Salesforce tab feature normally found at _Setup > Create > Tabs > Lightning Page Tabs_ and automatically adds the tabs to the Salesforce1 Mobile navigation configuration normally found in _Setup > Mobile Administration > Mobile Navigation_. 
 
-![Activate Popup](images/lab-activate-popup.png)
+![Activate Popup](images/lactivatepopup.png)
 
 1. Click **Activate** to add it to the Salesforce1 Mobile Navigation. 
 
-2. Set **Tab Label** to `Sales Health`.
+2. Set **Tab Label** to `Field Sales`.
 
 3. Next to the **Tab Icon** click **Change...**.
 
 4. Select any icon you prefer. This will close the Tab Icon window and change the icon displayed in the Activate window. 
 
-5. In the Salesforce1 Navigation Position Pane on the right, drag the **Sales Health** Salesforce1 Navigation Position to just below the **Feed** navigation. 
+5. In the Salesforce1 Navigation Position Pane on the right, drag the **Field Sales** Salesforce1 Navigation Position to just below the **Feed** navigation. 
 
 ![Nav Items List](images/lab-nav-items-list.png)
 
