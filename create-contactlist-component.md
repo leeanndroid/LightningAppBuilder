@@ -7,7 +7,6 @@ The Lightning App Builder makes it easy to display report data with the Report C
 
 ## What you will learn
 - How to display a Salesforce Report Chart in a Lightning Page
-- [possibly you will learn about report charts...any pointers here about what makes a good chart in S1?]
 
 
 ## Step 1:
