@@ -7,14 +7,14 @@ In this module, you will put the final touches on your Sales Health app by give 
 
 ## What you will learn
 
-- How to add Global Publisher Actions to a Lightning Page
+- How to add Global Actions to a Lightning Page
 - How to add a Lightning Page to the Salesforce1 Mobile App
 
 ## Step 1: Add Actions
 
 Actions are shortcuts that allow Salesforce1 Mobile App users to quickly create and modify records. In order for users to create common sales records, we will add a few standard actions. 
 
-1. In the right hand side bar, click on the word **Page**. This will make the app attributes available for configuration. 
+1. In the right hand side bar, click on the word **Page**. This will make the app properties available for configuration. 
 ![](images/pageclick.png)
    
 2. At the bottom of the right side bar, under Actions, click **Select...**.
@@ -30,7 +30,7 @@ Actions are shortcuts that allow Salesforce1 Mobile App users to quickly create 
 
 5. At the upper right of App Builder, click **Save**. 
 
-> The **Actions** attribute at the bottom of the right hand nav should now show the `LogACall`, `NewCase`,`NewLead` and `NewTask` actions. 
+> The **Actions** property at the bottom of the right hand nav should now show the `LogACall`, `NewCase`,`NewLead` and `NewTask` actions. 
 
 ## Step 2: Activate the App
 
