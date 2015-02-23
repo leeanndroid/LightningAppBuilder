@@ -24,7 +24,7 @@ The following browsers are supported when working with Salesforce:
 - Most recent version of Google Chrome
 - Most recent version of Mozilla Firefox
 - Most recent version of Safari
-- Internet Explorer 7 or higher
+- Internet Explorer 11 or higher
 - Additional browser support detailed <a href="https://help.salesforce.com/apex/HTViewHelpDoc?id=getstart_browser_overview.htm" target="_blank">here</a>
 
 ## Issues
