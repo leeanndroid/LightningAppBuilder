@@ -2,19 +2,19 @@
 layout: home
 title: Lightning App Builder Tutorial 
 ---
-In this tutorial you will use Salesforce Lightning App Builder to create a custom application using components built with the Lightning Component Framework. This new Sales Health app will give users the ability to quickly view their most important sales information in the Salesforce1 Mobile Application. In the process of building the app you will learn to build apps with the Lightning App Builder and see the possibiilites for both standard and custom component.
+In this tutorial you will use Salesforce Lightning App Builder to create a custom application using components built with the Lightning Component Framework. This sample Field Sales app will give users the ability to quickly view their most important sales information in the Salesforce1 Mobile Application. This sample app includes both standard and custom components. To learn more about custom components, see the <a href="http://developerforce.github.io/lightning-components-tutorial/" target="_blank">Lightning Components Tutorial</a>.
 
 ## What You Will Learn
 
-- How to use the Lightning App Builder
+- Use the Lightning App Builder
 - Work with Lightning Components and Actions in Lightning App Builder
-- Activate an App in the Salesforce1 Mobile Application
+- Include your app in the Salesforce1 Mobile Application
 
 ## Prerequisites
 
 - To complete this workshop, all you need is a modern browser and a connection to the Internet
 - A working knowledge of Salesforce administration is assumed
-- No prior knowledge of Salesforce Lightning components is required
+- No prior knowledge of Salesforce Lightning Components is required
 
 
 ## Browser Requirements
