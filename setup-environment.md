@@ -25,7 +25,7 @@ In this module, you set up your environment to enable Lightning App development.
 
 ## Step 2: Install Custom Component Package 
 
-1. Copy and paste the URL http://bit.ly/NearbyComponent unto the address bar of your browser
+1. Copy and paste the URL **http://bit.ly/InstallComponent** unto the address bar of your browser
 1. Select **Continue** on the Package Installation Details screen
 1. Select **Next** on the Approve Package API Access screen
 1. Select **Grant access to all users** on the Security Level screen. 
@@ -33,7 +33,16 @@ In this module, you set up your environment to enable Lightning App development.
 1. Select **Next**
 1. Select **Install** 
 
-##Step 3: Create Sample Contacts with Locations
+##Step 3: Add Custom Field to Contact Page Layout 
+1. Go to **Setup | Build | Customize | Contacts | Page Layouts**
+2. Select **Edit** next to the Contact Layout on the last row
+![](images/layout.png)
+3. Drag the **Location** field from the upper tray of available fields and drop it into the Address section of the page layout. 
+![](images/fielddrag.png)
+4. Click **Save**
+
+
+##Step 4: Create Sample Contacts with Locations
 We are going to create new contacts in our Salesforce environment and populate information into the geolocation field included in the package we just installed. This will allow our component to map the location of the contacts in our final Lightning App . 
 
 1. First, open a new tab to wwww.google.com and look up the Latitude and Longitude of the city you are currently in. Most major cities will automatically show the coordinates in the front page of your google search. 
