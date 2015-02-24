@@ -24,13 +24,11 @@ Actions are shortcuts that allow Salesforce1 Mobile App users to quickly create 
 
     ![Select New Expense](images/actions2.png)
 
-4. Click **Ok** to add the action to your Lightning Page. You should see the name of the selected action just above the **Select...** button.
-
-    ![Action Selected](images/lab-actions-selected.png)
-
-5. At the upper right of App Builder, click **Save**. 
+4. Click **Ok** to add the action to your Lightning Page. 
 
 > The **Actions** property at the bottom of the right hand nav should now show the `LogACall`, `NewCase`,`NewLead` and `NewTask` actions. 
+
+5. At the upper right of App Builder, click **Save**. 
 
 ## Step 2: Activate the App
 
