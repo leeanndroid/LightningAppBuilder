@@ -17,7 +17,7 @@ The Lightning App Builder makes it easy to display report data with the Report C
 - **Label:** Leave this blank. The label of the Report Chart will display by default.
 - **Report:** Opportunity Pipeline Report. 
 ![](images/addchart.png)
-- *Because we only have one custom report chart currently created, it will default to this report chart. Any report charts that you have access too will be avaiable in the report picklist.*
+- *Because we only have one custom report chart currently created, it will default to this report chart. Any report charts that you have access to will be avaiable in the report picklist.*
 
 6. Click **Save** to save your app.  
 ![](images/saveapp.png)
